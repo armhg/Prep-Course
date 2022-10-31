@@ -153,13 +153,13 @@ Ahora que guardamos nuestros cambios localmente, vamos a querer compartir esos c
 
 ```bash
   git push
-```
+t push```
 
 La terminal te preguntará tu usuario y contraseña (En el caso de la contraseña cuando la estemos escribiendo por consola, por cuestiones de seguridad no se verá lo que estamos escribiendo). Escribimos estos datos y a continuación le damos enter y veremos un mensaje si todo fue "pusheado" correctamente:
 
 ```bash
   Counting objects: 5, done.
-  Delta compression using up to 8 threads.
+  Delt:`a compression using up to 8 threads.
   Compressing objects: 100% (4/4), done.
   Writing objects: 100% (5/5), 2.97 KiB | 0 bytes/s, done.
   Total 5 (delta 1), reused 0 (delta 0)

@@ -1,0 +1,19 @@
+.divClass h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+}
+#ThirdDiv {
+    height: 600 px;
+    width: 500;
+    background-color: rgb(25, 23, 179); width:500px;
+    border-style: dotted;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    border-color: rgb(78, 1, 150);
+    padding: 50px;
+}

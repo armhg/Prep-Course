@@ -29,9 +29,13 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 5: */
 
 /* Acá va tu código */
-#ejercicioCinco{ display:flex; align-items:center; justify-content: space-around;}
+#ejercicioCinco{display:flex; align-items:center; justify-content:space-evenly ;}
 
 
 /* Ejercicio 6. */
 
-#ejercicioCinco{display: flex; flex-direction: row-reverse;}
+#ejercicioCinco{display:flex; flex-direction: row-reverse;}
+
+
+
+#ejercicioSiete{display:flex; align-items:center; flex-direction:column-reverse;}
